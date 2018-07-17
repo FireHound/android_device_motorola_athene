@@ -363,4 +363,7 @@
     <!-- Is the notification LED intrusive? Used to decide if there should be a disable option -->
     <bool name="config_intrusiveNotificationLed">true</bool>
     
+    <!-- Whether the device has hardware keys present --> 
+    <bool name="config_hardwareKeysPresent">false</bool>
+
 </resources>
