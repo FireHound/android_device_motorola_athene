@@ -29,3 +29,6 @@ PRODUCT_NAME := fh_athene
 PRODUCT_BRAND := Motorola
 PRODUCT_MANUFACTURER := Motorola
 PRODUCT_RELEASE_NAME := athene
+
+# Disable CNM
+DISABLE_CNM=true
