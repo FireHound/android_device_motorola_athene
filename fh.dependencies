@@ -2,7 +2,7 @@
   {
     "repository" : "AyanC1/android_kernel_motorola_msm8952",
     "target_path": "kernel/motorola/msm8952",
-    "branch"     : "fh-o"
+    "branch"     : "o8.1"
   },
   {
     "repository" : "LineageOS/android_external_bson",
@@ -27,6 +27,6 @@
   {
     "repository" : "AyanC1/proprietary_vendor_motorola_athene",
     "target_path": "vendor/motorola/athene",
-    "branch"     : "fh-o"
+    "branch"     : "o8.1"
   }
 ]
